@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle node-service-boilerplate",
+        "command": "node-service-boilerplate:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "node-service-boilerplate",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "node-service-boilerplate:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
