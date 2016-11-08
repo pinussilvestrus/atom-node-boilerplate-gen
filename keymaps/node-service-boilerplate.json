@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "node-service-boilerplate:toggle"
+    "ctrl-shift-o": "node-service-boilerplate:toggle"
   }
 }

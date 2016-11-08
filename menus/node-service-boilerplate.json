@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle node-service-boilerplate",
+        "label": "Generate Node Service Boilerplate",
         "command": "node-service-boilerplate:toggle"
       }
     ]
@@ -12,10 +12,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "node-service-boilerplate",
+          "label": "Generate Node Service Boilerplate",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "Generate",
               "command": "node-service-boilerplate:toggle"
             }
           ]

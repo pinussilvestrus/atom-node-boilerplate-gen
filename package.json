@@ -1,18 +1,18 @@
 {
   "name": "node-service-boilerplate",
   "main": "./lib/node-service-boilerplate",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "node-service-boilerplate:toggle"
   },
-  "repository": "https://github.com/atom/node-service-boilerplate",
-  "license": "MIT",
+  "repository": "https://github.com/pinussilvestrus/atom-node-boilerplate-gen",
+  "license": "GPL 3.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "atom-space-pen-views": "^2.2.0"
   }
 }
